@@ -1,0 +1,135 @@
+{
+    "index": {
+        "navbar": {
+            "home": "Inicio",
+            "about": "Sobre el Juego",
+            "compativility": "Compativilidad",
+            "images": "Imagenes de Arithmo",
+            "help":"Ayuda"
+        },
+        "header": {
+            "tittle": "Arithmo",
+            "download": "Descargar"
+        },
+        "about": {
+            "tittle": "Qué es Arithmo?",
+            "text": "Arithmo es una aplicación enfocada a desarrollar el área cognitiva de nuestro cerebro y poder facilitar el aprendizaje y fomentar el interés en las matemáticas."
+        },
+        "image": {
+            "tittle": "Imagenes de Arithmo",
+            "login": "Inicio de Sesión",
+            "register": "Registro",
+            "difficulty": "Diseño de pantalla de las dificultades",
+            "levels": "Diseño de pantalla de niveles",
+            "question":"Diseño de pantalla de ejercicio",
+            "profile":"Diseño de pantalla del perfil",
+            "edit":"Diseño de pantalla editar perfil",
+            "game":"Diseño Game Over"
+        },
+        "platforms": {
+            "tittle": "Plataformas en la que está disponible!"
+        },
+        "footer": {
+            "copyright": "Copyright © 2023 Arithmo Adventures. Todos los derechos reservados",
+            "contact": "Contacto con nosotros",
+            "about": "Sobre nosotros",
+            "policy": "Política de privacidad",
+            "conditions": "Términos & Condiciones"
+        }
+    },
+    "AboutUs": {
+        "tittle": "Sobre nosotros",
+        "sub-tittle": "Arithmo Adventures",
+        "p": "Nosotros Arithmo Adventures somos una empresa que se encarga de desarrollar aplicaciones móviles y páginas web, mediantes diferentes lenguajes de programación; buscamos una forma para poder ayudar a las demás personas mediante la tecnología con una manera que sea fácil para los usuarios a la hora de interactuar con nuestra aplicación buscando diversas maneras que no sea muy complejas, hemos utilizado una variedad de herramientas que estén a nuestro alcance para poder desarrollar la aplicación y poder sacar el máximo provecho de las habilidades de cada individuo, siempre cumpliendo todos los requisitos posibles par un desarrollo óptimo y funcional, dando un buen servicio visual y de calidad a través de una interfaz amigable y dinámica."
+    },
+    "Condition": {
+        "tittle": "Términos y Condiciones",
+        "sub-tittle": "Aceptar Términos y Condiciones",
+        "p1": "Al descargar, instalar o utilizar la aplicación móvil (Arithmo), usted acepta cumplir con estos Términos y Condiciones de Uso (Términos) en su totalidad. Si no está de acuerdo con alguno de los términos, no utilice la Aplicación.",
+        "p2": "Descripción del Proyecto: Arithmo es una aplicación de juegos matemáticos diseñada para entretener y educar a usuarios de todas las edades. La aplicación ofrece una variedad de juegos y desafíos matemáticos para mejorar las habilidades numéricas, lógicas y de resolución de problemas.Uso Apropiado: La Aplicación está destinada a ser utilizada exclusivamente con fines recreativos y educativos, el usuario se compromete a no utilizar la Aplicación para fines ilegales, inapropiados o que infrinjan los derechos de terceros.",
+        "p3": "Responsabilidad del Usuario: El usuario es responsable de mantener la confidencialidad de cualquier información de inicio de sesión utilizada para acceder a la Aplicación asimismo, se compromete a proporcionar información precisa y actualizada al registrarse en la Aplicación. Privacidad: La privacidad del usuario es importante para nosotros. Consulte nuestra Política de Privacidad para comprender cómo recopilamos, utilizamos y protegemos su información personal."
+    },
+    "Privacy": {
+        "tittle": "Politicas de Privacidad",
+        "sub-tittle": "Arithmo",
+        "p1":"Bienvenidos al juego de matemáticas Arithmo. Antes de participar, te pedimos que leas detenidamente los siguientes politicas de privacidad, ya que establecen las reglas y responsabilidades que rigen tu participación en este juego. Al acceder y utilizar este juego, aceptas estar sujeto a estos politcas de privacidad.",
+        "p2":"1. Aceptación de los politcas de privacidad Al jugar Arithmo, aceptas cumplir con estos politcas de privacidad. Si no estás de acuerdo con alguna parte de estos términos, te recomendamos que no juegues.",
+        "p3":"2. Elegibilidad el juego está abierto para personas de todas las edades, pero se recomienda que los menores de edad participen bajo la supervisión de un adulto. Los participantes deben tener acceso a una conexión a Internet y cumplir con cualquier otro requisito técnico necesario para el juego.",
+        "p4":"3. Uso Apropiado al jugar Arithmo, te comprometes a no:",
+        "p5":"Utilizar lenguaje ofensivo, discriminatorio o inapropiado en cualquier área del juego. Manipular o intentar manipular los resultados del juego de ninguna manera. Cometer fraudes, intentar eludir la seguridad del juego o realizar actividades ilegales.",
+        "p6":"4. Propósito del juego Arithmo es un juego diseñado para mejorar tus habilidades matemáticas a través de una serie de desafíos y preguntas matemáticas. El objetivo del juego es proporcionar entretenimiento y educación a los jugadores.",
+        "p7":"Arithmo Adventure se reserva el derecho de suspender o terminar tu acceso al juego en cualquier momento y por cualquier motivo, incluido el incumplimiento de estos politcas de privacidad. Al participar en Arithmo, aceptas cumplir con estos politcas de privacidad. Si no estás de acuerdo con ellos, te pedimos que no juegues. Para cualquier pregunta o preocupación relacionada con estos términos, comunícate con nosotros a través de [correo electrónico de contacto.",
+        "button":"Aceptar"
+    },
+    "Help":{
+        "tittle":"¡Bienvenido a la Página de Ayuda!",
+        "sub-tittle":"¡Estamos aquí para ayudarte a superar cada desafío matemático!",
+        "Basic":{
+            "tittle":"Operaciones básicas",
+            "sub-tittle":"Aprende operaciones básicas",
+            "text":"Arithmo es tu compañero perfecto para dominar las operaciones básicas de matemáticas de manera clara y concisa. Nuestra plataforma te proporciona herramientas interactivas y recursos educativos diseñados para hacer que aprender matemáticas sea una experiencia atractiva y efectiva.Con Arithmo, obtendrás acceso a explicaciones paso a paso, ejemplos prácticos y ejercicios desafiantes que te ayudarán a fortalecer tus habilidades matemáticas.",
+            "t1":"Suma",
+            "t2":"Resta",
+            "t3":"División",
+            "t4":"Multiplicación",
+            "p1":"Ejemplos de sumas:",
+            "p2":"Ejemplos de restas:",
+            "p3":"Ejemplos de división:",
+            "p4":"Ejemplos de multiplicación:"
+        },
+        "Fracc":{
+            "tittle":"Operaciones básicas con fracciones",
+            "sub-tittle":"Domina las operaciones con fracciones",
+            "text":"Con Arithmo, tu capacidad para trabajar con fracciones se elevará a un nuevo nivel. Nuestra plataforma ha sido diseñada específicamente para hacer que el aprendizaje de operaciones con fracciones sea accesible, comprensible y efectivo. Desde sumar y restar fracciones hasta multiplicar y dividir, Arithmo te brindará las herramientas necesarias para realizar estas operaciones de manera fluida. ",
+            "t1":"Suma con fracciones",
+            "t2":"Resta con fracciones",
+            "t3":"División con fracciones",
+            "t4":"Multiplicación de fracciones",
+            "p1":"Ejemplos de sumas de fracciones",
+            "p2":"Ejemplos de resta de fracciones",
+            "p3":"Ejemplos de división de fracciones",
+            "p4":"Ejemplos de multiplicación de fracciones"
+        },
+        "Polim":{
+            "tittle":"Operaciones básicas con Polinomios",
+            "sub-tittle": "Mejora tus habilidades con polinomios",
+            "text":"Arithmo se convierte en tu compañero confiable para comprender y dominar las operaciones con polinomios sin complicaciones y a tu propio ritmo. A través de nuestra plataforma, te sumergirás en un entorno de aprendizaje interactivo diseñado para hacer que trabajar con polinomios sea una experiencia fluida y enriquecedora.A medida que te involucras en ejercicios interactivos y lecciones prácticas, podrás ver cómo tus habilidades con los polinomios crecen, brindándote la confianza para enfrentar problemas cada vez más desafiantes.",
+            "t1":"Suma con polinomios",
+            "t2":"Resta con polinomios",
+            "t3":"División con polinomios",
+            "t4":"Multiplicación de polinomios",
+            "p1":"Ejemplos de sumas de polinomios",
+            "p2":"Ejemplos de resta de polinomios",
+            "p3":"Ejemplos de división de polinomios",
+            "p4":"Ejemplos de multiplicación de polinomios"
+        },
+        "Fact":{
+            "tittle":"Casos de Factoreo",
+            "sub-tittle": "Amplía tu destreza en factoreo",
+            "text":"En Arithmo, no solo aprenderás los conceptos básicos del factoreo, sino que también explorarás una amplia gama de casos de factoreo para desarrollar tu habilidad de resolver problemas de manera eficiente.Nuestra plataforma está diseñada para guiarte a través de diversos escenarios de factoreo, brindándote una comprensión profunda de cómo aplicar diferentes métodos para simplificar expresiones algebraicas. ",
+            "t1":"Caso 1:Factor común",
+            "t2":"Caso 2:Factor común por agrupación de términos",
+            "t3":"Caso 3:Trinomio cuadrado perfecto",
+            "t4":"Caso 4:Diferencia de cuadrados perfectos",
+            "t5":"Caso 5:Trinomio cuadrado perfecto por adicion y sustracción",
+            "t6":"Caso 6:Trinomio de la forma x² + bx +c",
+            "t7":"Caso 7:Trinomio de la forma ax² + bx +c",
+            "t8":"Caso 8:Cubo perfecto de binomios",
+            "t9":"Caso 9:Suma o diferencia de cubos perfectos:",
+            "t10":"Caso 10:Suma o diferencia de dos potencias iguales",
+            "p1":"Tiene factor común 2x, si no se sabe cual es su factor común, se le saca m.c.m a todos los términos.Luego de haber encontrado el factor común, se divide dicho factor  por cada término. Además los exponentes se restan.El resultado obtenido sera nuestra respuesta final.",
+            "p2":"Se llama factor común por agrupación de términos, si los términos de un polinomio pueden reunirse en grupos de términos con un factor común diferente en cada grupo.",
+            "p3":" Cuando la primera y tercer letra son cuadrados perfectos (o tienen raíz cuadrada exacta) y son positivos y el segundo termino es el doble producto de sus raíces cuadradas.",
+            "p4":"La diferencia de cuadrados perfectos se factoriza como el producto de dos binomios, uno como suma y otro como resta.Los términos de estos binomios son las raíces cuadradas de cada uno de los términos de la diferencia planteada al principio.",
+            "p5":"El primer y tercer término tienen raíz cuadrada perfecta pero el de la mitad no es el doble producto de las dos raíces. Se debe saber cuanto debe ser el doble producto y la cantidad que falte para cuadrar el término de la mitad, esta cantidad se le suma y se le resta al mismotiempo, de tal forma se armara un trinomio cuadrado.",
+            "p6":"Se identifica por tener tres términos, hay una literal con exponente al cuadrado y uno de ellos es el término independiente. Se resuelve por medio de dos paréntesis en los cuales se colocan la raíz cuadrada de la variable, buscando dos números que multiplicados den como resultado el término independiente y sumados den como resultado el término del medio.",
+            "p7":" La diferencia de esta forma con la anterior es que en aquella debía haber una sola equis cuadrada, mientras que en ésta debe haber más de una. La letra a representa en general a cualquier número que vaya junto a la x^2 ; la letra b representa a cualquier número que vaya junto a la x ; y la c representa a cualquier número que vaya sin la x.",
+            "p8":"Sea la expresión:  a³ + 3a²b  + 3ab² +b³ = (a+b)³: Debe tener 4 términos. Que el 1° y 4° término sean cubos perfectos. (a³) y (b³). Que el 2° término sea el triplo del cuadrado de la raíz cúbica del primer término multiplicado por la raíz cúbica del 4°  término ( 3a²b). Que el 3° término sea el triplo de la raíz cúbica del primer término multiplicado por el cuadrado de la raíz cúbica del 4° término (3ab²) ",
+            "p9":" La suma de dos cubos perfectos se descompone en dos factores, el primero es la suma de sus raíces cúbicas, y el segundo se compone de el cuadrado de la primera raíz menos el producto de ambas raíces más el cuadrado de la segunda raíz.",
+            "p10":"Son 2 potencias iguales, es decir, 2 potencias con la misma base y el mismo exponente tienen el mismo valor."
+            
+        }
+
+
+    }
+}

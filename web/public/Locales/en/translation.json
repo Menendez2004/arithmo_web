@@ -1,0 +1,135 @@
+{
+    "index":{
+        "navbar":{
+            "home":"Home",
+            "about": "About the Game",
+            "compativility": "Compativility",
+            "images": "Arithmo Images",
+            "help":"Help"
+        },
+        "header":{
+            "tittle":"Arithmo",
+            "download":"Download"
+        },
+        "about":{
+            "tittle":"What is Arithmo?",
+            "text":"Arithmo is an application focused on developing the cognitive area of our brain in order to facilitate learning and encourage interest in mathematics."
+        },
+        "image":{
+            "tittle": "Arithmo images",
+            "login": "Login",
+            "register": "Register",
+            "difficulty": "Difficulty screen layout",
+            "levels": "Levels screen layout"
+        },
+        "platforms":{
+            "tittle": "Platforms on which it is available!"
+        },
+        "footer":{
+            "copyright": "Copyright © 2023 Arithmo Adventures. All rights reserved.",
+            "contact": "Contact us",
+            "about":"About Us",
+            "policy":"Privacy Policy",
+            "conditions":"Terms & Conditions"
+        }
+    },
+    "AboutUs":{
+        "tittle":"About us",
+        "sub-tittle":"Arithmo Adventures",
+        "p":"We Arithmo Adventures are a company that is in charge of developing mobile applications and web pages, mediantes different programming languages; we are looking for a way to help other people through technology in a way that is easy for users to interact with our application looking for different ways that are not too complex, we have used a variety of tools that are within our reach to develop the application and to make the most of the skills of each individual, always meeting all possible requirements for an optimal and functional development, giving a good visual and quality service through a friendly and dynamic interface."
+    },
+    "Condition":{
+        "tittle":"Terms and Conditions",
+        "sub-tittle":"Accept Terms and Conditions",
+        "p1":"By downloading, installing or using the mobile application (Arithmo), you agree to abide by these Terms and Conditions of Use (Terms) in their entirety. If you do not agree to any of the terms, do not use the Application.",
+        "p2":"Project Description:Arithmo is a math games application designed to entertain and educate users of all ages. The App offers a variety of mathematical games and challenges to improve numerical, logical and problem solving skills.Appropriate Use: The App is intended to be used exclusively for recreational and educational purposes, the user agrees not to use the App for illegal, inappropriate or infringing third party rights purposes.",
+        "p3":"User Responsibility: The user is responsible for maintaining the confidentiality of any login information used to access the Application and agrees to provide accurate and up-to-date information when registering for the Application. Privacy: User privacy is important to us. Please refer to our Privacy Policy to understand how we collect, use and protect your personal information.",
+        "p4":"Utilizar lenguaje ofensivo, discriminatorio o inapropiado en cualquier área del juego. Manipular o intentar manipular los resultados del juego de ninguna manera. Cometer fraudes, intentar eludir la seguridad del juego o realizar actividades ilegales.",
+        "p5":""
+    },
+    "Privacy": {
+        "tittle": "Politicas de Privacidad",
+        "sub-tittle": "Arithmo",
+        "p1":"Welcome to the math game Arithmo. Before participating, we ask that you read the following terms and conditions carefully, as they set out the rules and responsibilities that govern your participation in this game. By accessing and using this game, you agree to be bound by these terms and conditions.",
+        "p2":"Acceptance of the Terms and Conditions by playing Arithmo, you agree to be bound by these terms and conditions. If you disagree with any part of these terms, we recommend that you do not play the game.",
+        "p3":"Eligibility The game is open to people of all ages, but it is recommended that minors participate under adult supervision. Participants must have access to an Internet connection and meet any other technical requirements necessary for the game.",
+        "p4":"3. Appropriate use by playing Arithmo, you agree not to:",
+        "p5":"Use offensive, discriminatory or inappropriate language in any area of the game. manipulate or attempt to manipulate the results of the game in any way. Committing fraud, attempting to circumvent game security, or engaging in illegal activities.",
+        "p6":"4. Purpose of the Game Arithmo is a game designed to improve your math skills through a series of math challenges and questions. The aim of the game is to provide entertainment and education tothe players.",
+        "p7":"Arithmo Adventure reserves the right to suspend or terminate your access to the game at any time for any reason, including breach of these terms and conditions. By participating in Arithmo, you agree to abide by these terms and conditions. If you do not agree with them, we ask you not to play. For any questions or concerns related to these terms, please contact us at [contact email].",
+        "button":"Accept"
+    },
+    "Help":{
+        "tittle": "Welcome to the Help Page!",
+        "sub-tittle": "We're here to help you overcome every math challenge!",
+        "Basic":{
+            "tittle": "Basic Operations",
+            "sub-tittle": "Learn basic operations",
+            "text": "Arithmo is your perfect companion to master basic math operations in a clear and concise way. Our platform provides you with interactive tools and educational resources designed to make learning mathematics an engaging and effective experience. With Arithmo, you'll get access to step-by-step explanations, practical examples and challenging exercises that will help you strengthen your math skills.",
+            "t1": "Addition",
+            "t2": "Subtraction",
+            "t3": "Division",
+            "t4": "Multiplication",
+            "p1": "Examples of Addition:",
+            "p2": "Examples of Subtraction:", 
+            "p3": "Division examples:",
+            "p4": "Multiplication examples:"
+        },
+        "Fracc":{
+            "tittle": "Basic operations with fractions",
+            "sub-tittle": "Master operations with fractions",
+            "text": "With Arithmo, your ability to work with fractions will be elevated to a new level. Our platform has been specifically designed to make learning fraction operations accessible, understandable and effective. From adding and subtracting fractions to multiplying and dividing, Arithmo will give you the tools you need to perform these operations fluently. ",
+            "t1": "Addition with fractions",
+            "t2": "Subtraction with fractions",
+            "t3": "Division with fractions",
+            "t4": "Multiplication of fractions",
+            "p1": "Examples of addition with fractions",
+            "p2": "Examples of subtraction of fractions",
+            "p3": "Examples of division of fractions",
+            "p4": "Fraction multiplication examples"
+        },
+        "Polim":{
+            "tittle": "Basic Operations with Polynomials",
+            "sub-tittle": "Improve your skills with polynomials",
+            "text": "Arithmo becomes your reliable companion to understand and master operations with polynomials without complications and at your own pace. Through our platform, you'll be immersed in an interactive learning environment designed to make working with polynomials a smooth and enriching experience.As you engage in interactive exercises and hands-on lessons, you'll see your polynomial skills grow, giving you the confidence to tackle increasingly challenging problems.",
+            "t1": "Addition with polynomials",
+            "t2": "Subtraction with polynomials",
+            "t3": "Division with polynomials.",
+            "t4": "Multiplication of polynomials",
+            "p1": "Examples of addition of polynomials",
+            "p2": "Examples of subtraction of polynomials",
+            "p3": "Examples of division of polynomials",
+            "p4": "Polynomial multiplication examples"
+        },
+        "Fact":{
+            "tittle": "Factoring Cases",
+            "sub-tittle": "Expand your factoring skills",
+            "text": "At Arithmo, you will not only learn the basics of factoring, but also explore a wide range of factoring cases to develop your ability to solve problems efficiently.Our platform is designed to guide you through various factoring scenarios, giving you an in-depth understanding of how to apply different methods to simplify algebraic expressions. ",
+            "t1": "Case 1:Common factor",
+            "t2": "Case 2: Common factor by grouping terms",
+            "t3": "Case 3: Perfect square trinomial",
+            "t4": "Case 4: Difference of perfect squares",
+            "t5": "Case 5: Perfect square trinomial by addition and subtraction",
+            "t6": "Case 6:Trinomial of the form x² + bx +c",
+            "t7": "Case 7:Trinomial of the form ax² + bx +c",
+            "t8": "Case 8: Perfect cube of binomials",
+            "t9": "Case 9:Sum or difference of perfect cubes:",
+            "t10": "Case 10:Sum or difference of two equal powers",
+            "p1": "It has common factor 2x, if you do not know which is its common factor, you take out m.c.m to all the terms.After finding the common factor, you divide this factor by each term. The result obtained will be our final answer.",
+            "p2": "It is called a common factor by grouping of terms, if the terms of a polynomial can be put together in groups of terms with a different common factor in each group.",
+            "p3":" When the first and third letters are perfect squares (or have exact square root) and are positive and the second term is the double product of their square roots.",
+            "p4": "The difference of perfect squares is factored as the product of two binomials, one as an addition and the other as a subtraction.The terms of these binomials are the square roots of each of the terms of the difference posed at the beginning.", 
+            "p5": "The first and third terms have perfect square roots but the one in the middle is not the double product of the two roots. We must know how much should be the double product and the amount that is missing to square the middle term, this amount is added and subtracted at the same time, in such a way that a square trinomial is assembled",
+            "p6": "It is identified by having three terms, there is a literal with a squared exponent and one of them is the independent term. It is solved by means of two parentheses in which the square root of the variable is placed, looking for two numbers that multiplied give as a result the independent term and added together give as a result the middle term.",
+            "p7":" The difference between this form and the previous one is that in that one there should be only one square X, while in this one there should be more than one. The letter a represents in general any number that goes next to the x^2 ; the letter b represents any number that goes next to the x ; and the c represents any number that goes without the x.", 
+            "p8": "Let the expression: a³ + 3a²b + 3ab² +b³ = (a+b)³: It must have 4 terms. Let the 1st and 4th terms be perfect cubes (a³) and (b³). Let the 2nd term be the triple of the square of the cube root of the first term multiplied by the cube root of the 4th term ( 3a²b). Let the 3rd term be the triple of the cube root of the first term multiplied by the square of the square of the cube root of the 4th term (3ab²) ",
+            "p9":" The sum of two perfect cubes is decomposed into two factors, the first is the sum of their cube roots, and the second is composed of the square of the first root minus the product of both roots plus the square of the second root.",
+            "p10": "They are 2 equal powers, that is, 2 powers with the same base and the same exponent have the same value."
+            
+        }
+
+
+    }
+
+
+}
