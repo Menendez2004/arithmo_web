@@ -31,7 +31,7 @@ export const Header = () => {
                             
                         </div>
                         <div className='hola'>
-                                <img src={logo} width={305} className='flex relative z-30  mt-[-16.5rem]  translate-x-[70rem] logo-header'/>
+                                <img src={logo} width={305} className='flex relative z-30  mt-[-16.5rem]  translate-x-[70rem] logo-header' alt=''/>
                         </div>
                     </div>
                     <div className=''>

@@ -13,10 +13,10 @@ export const Download = () => {
             <div className='w-full h-full mt-[5rem] bg-white mb-[5rem]'>
                 <div className='flex w-full z-20 '>
                     <div className='left-0'>
-                        <img src={signos('./multiplicar.png')} className=' w-[8rem] rotate-[-195deg] ml-[1.5rem]' />
+                        <img src={signos('./multiplicar.png')} className=' w-[8rem] rotate-[-195deg] ml-[1.5rem]'alt='' />
                     </div>
                     <div className='grow'>
-                        <img src={signos('./division.png')} className=' w-[8rem] float-right rotate-[-24deg] mr-[1.5rem]' />
+                        <img src={signos('./division.png')} className=' w-[8rem] float-right rotate-[-24deg] mr-[1.5rem]' alt='' />
                     </div>
                 </div>
                 <div className='mb-[2rem] w-full z-10 mt-[] '>
@@ -39,10 +39,10 @@ export const Download = () => {
                 </div>
                 <div className='flex w-full z-20 '>
                     <div className='left-0'>
-                        <img src={signos('./suma.png')} className=' w-[8rem] rotate-[-24deg] ml-[1.5rem]' />
+                        <img src={signos('./suma.png')} className=' w-[8rem] rotate-[-24deg] ml-[1.5rem]' alt=''/>
                     </div>
                     <div className='grow'>
-                        <img src={signos('./resta.png')} className=' w-[8rem] float-right rotate-[-24deg] mr-[1.5rem]' />
+                        <img src={signos('./resta.png')} className=' w-[8rem] float-right rotate-[-24deg] mr-[1.5rem]' alt=''/>
                     </div>
                 </div>
             </div>

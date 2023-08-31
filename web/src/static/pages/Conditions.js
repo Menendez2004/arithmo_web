@@ -23,7 +23,7 @@ export const Conditions = () => {
                         <p className='text-justify'>{t("Condition.p3")}</p>
                     </div>
                     <div className='mr-[8rem] flex '>
-                        <img src={logo} className='w-[20rem] ml-[10rem] mt-[6rem]' />
+                        <img src={logo} className='w-[20rem] ml-[10rem] mt-[6rem]' alt='' />
                     </div>
                 </div>
                 

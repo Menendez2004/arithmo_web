@@ -29,7 +29,7 @@ export const Index = () => {
                 <Header />
                 <div className='lg:flex bg-white'>
                     <div>
-                        <img src={cuaderno} />
+                        <img src={cuaderno} alt='' />
                     </div>
                     <p id='hola'></p>
                     <div className='max-w-md mx-auto mt-[5rem]'>
@@ -133,10 +133,10 @@ export const Index = () => {
                     <div className='flex justify-center items-center '>
                         <div className='grid lg:gap-2 lg:grid-cols-2 disponibilidad container-dispo'>
                             <div className='border border-[#0A4D68] w-[35rem] p-[5rem] bg-[#0A4D68] mx-4 hover:border-[1px] hover:border-solid hover:border-[#05BFDB] servicex'>
-                                <img src={plataformas('./android.png')} width={100} className='block m-auto imaginex' />
+                                <img src={plataformas('./android.png')} width={100} className='block m-auto imaginex ' alt='' />
                             </div>
                             <div className='border border-[#0A4D68] w-[35rem] p-[5rem] bg-[#0A4D68] mx-4 hover:border-[1px] hover:border-solid hover:border-[#05BFDB] servicex'>
-                                <img src={plataformas('./apple.png')} width={100} className='block m-auto' />
+                                <img src={plataformas('./apple.png')} width={100} className='block m-auto' alt='' />
                             </div>
                         </div>
                     </div>

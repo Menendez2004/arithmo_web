@@ -1,6 +1,5 @@
 import React, { useState } from 'react';
 import logo from '../img/Arithmo.svg';
-import { Link } from 'react-router-dom';
 
 
 
@@ -24,7 +23,7 @@ export const Nav = () => {
             <div className='md:flex items-center justify-between bg-[#088395] py-4 md:px-10 px-7'>
                 <div className='font-bold text-2xl cursor-pointer flex items-center font-[Poppins]  text-white '>
                     <span className='text-3xl text-indigo-600 mr-1 pt-2'>
-                        <img src={logo} width={150} />
+                        <img src={logo} width={150} alt=''/>
                         {/* <ion-icon name="logo-ionic"></ion-icon> */}
                     </span>
 

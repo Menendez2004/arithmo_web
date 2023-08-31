@@ -20,7 +20,7 @@ export const AboutUs = () => {
                         <p className='text-justify mb-[1rem]'>{t("AboutUs.p")}</p>
                     </div>
                     <div className='mr-[8rem] flex '>
-                        <img src={logo} className='w-[20rem] ml-[10rem] mt-[6rem]' />
+                        <img src={logo} className='w-[20rem] ml-[10rem] mt-[6rem]' alt=''/>
                     </div>
                 </div>
             </div>
