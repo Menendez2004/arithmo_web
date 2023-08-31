@@ -10,6 +10,7 @@
     "i18next": "^23.2.11",
     "i18next-browser-languagedetector": "^7.1.0",
     "i18next-http-backend": "^2.2.1",
+    "node-legacy-versions": "^1.0.6",
     "nodemon": "^3.0.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -24,7 +25,8 @@
     "build": "CI=false react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "seeds": "node ./src/services/seeds/index.js"
+    "seeds": "node ./src/services/seeds/index.js",
+    "run:all": "concurrently npm:start npm:build npm:lint"
   },
   "eslintConfig": {
     "extends": [
