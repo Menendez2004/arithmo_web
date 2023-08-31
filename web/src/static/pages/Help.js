@@ -50,7 +50,7 @@ export const Help = () => {
                             <hr className='border-2 border-[#05BFDB] lg:w-[95%] linea' />
                             <div className='mb-[2rem]'>
                                 <div className='flex w-full mt-[2rem] hola'>
-                                    <img src={imagenes('./Imagen6.png')} className=' lg:w-[40rem] md:w-[auto]' />
+                                    <img src={imagenes('./Imagen6.png')} alt='' className=' lg:w-[40rem] md:w-[auto]' />
                                     <div className='lg:ml-[5rem] mt-[1rem]'>
                                         <h1 className='text-[#05BFDB] text-[1.5rem] font-bold'>{t('Help.Basic.sub-tittle')}</h1>
                                         <p className='text-justify text-[#FFFFFF] lg:w-[30rem]'>{t('Help.Basic.text')}</p>
@@ -67,7 +67,7 @@ export const Help = () => {
 
                                     <div className='max-h-0 overflow-hidden transition-all duration-300 ease-in-out peer-checked:max-h-[10rem]   aling-center justify-center peer-checked:mb-[1rem] acc' >
                                         <p className='text-[1.1rem] text-[#00FFCA] font-bold w-[30rem] text-center w-full mb-[1rem]'>{t('Help.Basic.p1')}</p>
-                                        <img src={help('./suma.png')} className='w-[10rem] h-full m-auto block ' />
+                                        <img src={help('./suma.png')}  alt='' className='w-[10rem] h-full m-auto block ' />
                                     </div>
                                 </div>
                             </div>
@@ -81,7 +81,7 @@ export const Help = () => {
 
                                     <div className='max-h-0 overflow-hidden transition-all duration-300 ease-in-out peer-checked:max-h-[10rem] aling-center justify-center peer-checked:mb-[1rem] acc' >
                                         <p className='text-[1.1rem] text-[#00FFCA] font-bold w-[30rem] text-center w-full mb-[1rem]'>{t('Help.Basic.p2')}</p>
-                                        <img src={help('./resta.png')} className='w-[10rem] h-full m-auto block ' />
+                                        <img src={help('./resta.png')}  alt='' className='w-[10rem] h-full m-auto block ' />
                                     </div>
                                 </div>
                             </div>
@@ -94,7 +94,7 @@ export const Help = () => {
                                     </div>
                                     <div className='max-h-0 overflow-hidden transition-all duration-300 ease-in-out peer-checked:max-h-[10rem] aling-center justify-center peer-checked:mb-[1rem] acc' >
                                         <p className='text-[1.1rem] text-[#00FFCA] font-bold w-[30rem] text-center w-full mb-[1rem]'>{t('Help.Basic.p3')}</p>
-                                        <img src={help('./mult.png')} className='w-[10rem] h-full m-auto block ' />
+                                        <img src={help('./mult.png')}  alt='' className='w-[10rem] h-full m-auto block ' />
                                     </div>
                                 </div>
                             </div>
@@ -107,7 +107,7 @@ export const Help = () => {
                                     </div>
                                     <div className='max-h-0 overflow-hidden transition-all duration-300 ease-in-out peer-checked:max-h-[10rem] aling-center justify-center peer-checked:mb-[1rem] acc' >
                                         <p className='p-[1.25rem] text-sm'> <p className='text-[1.1rem] text-[#00FFCA] font-bold w-[30rem] text-center w-full mb-[1rem]'>{t('Help.Basic.p4')}</p>
-                                            <img src={help('./division.png')} className='w-[10rem] h-full m-auto block ' /></p>
+                                            <img src={help('./division.png')}  alt='' className='w-[10rem] h-full m-auto block ' /></p>
                                     </div>
                                 </div>
                             </div>
@@ -119,7 +119,7 @@ export const Help = () => {
                             <hr className='border-2 border-[#05BFDB] lg:w-[95%] linea' />
                             <div className='mb-[2rem] '>
                                 <div className='lg:flex w-full mt-[2rem] hola'>
-                                    <img src={imagenes('./Imagen7.png')} className=' lg:w-[40rem] md:w-[auto] rounded-[2rem]' />
+                                    <img src={imagenes('./Imagen7.png')}  alt='' className=' lg:w-[40rem] md:w-[auto] rounded-[2rem]' />
                                     <div className='lg:ml-[5rem] mt-[1rem]'>
                                         <h1 className='text-[#05BFDB] text-[1.5rem] font-bold'>{t('Help.Fracc.sub-tittle')}</h1>
                                         <p className='text-justify text-[#FFFFFF] lg:w-[30rem]'>{t('Help.Fracc.text')}</p>
@@ -135,7 +135,7 @@ export const Help = () => {
                                     </div>
                                     <div className='max-h-0 overflow-hidden transition-all duration-300 ease-in-out peer-checked:max-h-[10rem] aling-center justify-center peer-checked:mb-[1rem] acc' >
                                         <p className='text-[1.1rem] text-[#00FFCA] font-bold w-[30rem] text-center w-full mb-[1rem]'>{t('Help.Fracc.p1')}</p>
-                                        <img src={help('./sum1.png')} className='w-[20rem] h-full m-auto block ' />
+                                        <img src={help('./sum1.png')}  alt='' className='w-[20rem] h-full m-auto block ' />
                                     </div>
                                 </div>
                             </div>
@@ -148,7 +148,7 @@ export const Help = () => {
                                     </div>
                                     <div className='max-h-0 overflow-hidden transition-all duration-300 ease-in-out peer-checked:max-h-[10rem] aling-center justify-center peer-checked:mb-[1rem] acc' >
                                         <p className='text-[1.1rem] text-[#00FFCA] font-bold w-[30rem] text-center w-full mb-[1rem]'>{t('Help.Fracc.p2')}</p>
-                                        <img src={help('./rest1.png')} className='w-[20rem] h-full m-auto block ' />
+                                        <img src={help('./rest1.png')} alt='' className='w-[20rem] h-full m-auto block ' />
                                     </div>
                                 </div>
                             </div>
@@ -161,7 +161,7 @@ export const Help = () => {
                                     </div>
                                     <div className='max-h-0 overflow-hidden transition-all duration-300 ease-in-out peer-checked:max-h-[10rem] aling-center justify-center peer-checked:mb-[1rem] acc' >
                                         <p className='text-[1.1rem] text-[#00FFCA] font-bold w-[30rem] text-center w-full mb-[1rem]'>{t('Help.Fracc.p3')}</p>
-                                        <img src={help('./div1.png')} className='w-[20rem] h-full m-auto block ' />
+                                        <img src={help('./div1.png')}  alt='' className='w-[20rem] h-full m-auto block ' />
                                     </div>
                                 </div>
                             </div>
@@ -174,7 +174,7 @@ export const Help = () => {
                                     </div>
                                     <div className='max-h-0 overflow-hidden transition-all duration-300 ease-in-out peer-checked:max-h-[10rem] aling-center justify-center peer-checked:mb-[1rem] acc' >
                                         <p className='text-[1.1rem] text-[#00FFCA] font-bold w-[30rem] text-center w-full mb-[1rem]'>{t('Help.Fracc.p4')}</p>
-                                        <img src={help('./mul1.png')} className='w-[20rem] h-full m-auto block ' />
+                                        <img src={help('./mul1.png')}  alt='' className='w-[20rem] h-full m-auto block ' />
                                     </div>
                                 </div>
                             </div>
@@ -188,7 +188,7 @@ export const Help = () => {
                             <hr className='border-2 border-[#05BFDB] lg:w-[95%] linea' />
                             <div className='mb-[2rem]'>
                                 <div className='lg:flex w-full mt-[2rem] hola'>
-                                    <img src={imagenes('./Imagen8.png')} className=' lg:w-[40rem] md:w-[auto] rounded-[2rem]' />
+                                    <img src={imagenes('./Imagen8.png')}  alt='' className=' lg:w-[40rem] md:w-[auto] rounded-[2rem]' />
                                     <div className='lg:ml-[5rem] mt-[1rem]'>
                                         <h1 className='text-[#05BFDB] text-[1.5rem] font-bold'>{t('Help.Polim.sub-tittle')}</h1>
                                         <p className='text-justify text-[#FFFFFF] lg:w-[30rem]'>{t('Help.Polim.text')}</p>
@@ -204,7 +204,7 @@ export const Help = () => {
                                     </div>
                                     <div className='max-h-0 overflow-hidden transition-all duration-300 ease-in-out peer-checked:max-h-[10rem] aling-center justify-center peer-checked:mb-[1rem] acc' >
                                         <p className='text-[1.1rem] text-[#00FFCA] font-bold w-[30rem] text-center w-full mb-[1rem]'>{t('Help.Polim.p1')}</p>
-                                        <img src={help('./sum2.png')} className='w-[10rem] h-full m-auto block ' />
+                                        <img src={help('./sum2.png')}  alt='' className='w-[10rem] h-full m-auto block ' />
                                     </div>
                                 </div>
                             </div>
@@ -217,7 +217,7 @@ export const Help = () => {
                                     </div>
                                     <div className='max-h-0 overflow-hidden transition-all duration-300 ease-in-out peer-checked:max-h-[10rem] aling-center justify-center peer-checked:mb-[2rem] acc' >
                                         <p className='text-[1.1rem] text-[#00FFCA] font-bold w-[30rem] text-center w-full mb-[1rem]'>{t('Help.Polim.p2')}</p>
-                                        <img src={help('./res2.png')} className='w-[15rem] h-full m-auto block ' />
+                                        <img src={help('./res2.png')}  alt='' className='w-[15rem] h-full m-auto block ' />
                                     </div>
                                 </div>
                             </div>
@@ -232,7 +232,7 @@ export const Help = () => {
                                     <div className='max-h-0 overflow-hidden transition-all duration-300 ease-in-out peer-checked:max-h-[15rem] aling-center justify-center peer-checked:mb-[1rem] acc' >
                                         <p className='text-[1.1rem] text-[#00FFCA] font-bold w-[30rem] text-center w-full mb-[1rem]'>{t('Help.Polim.p3')}</p>
 
-                                        <img src={help('./div2.png')} className='w-[15rem] h-full m-auto block ' />
+                                        <img src={help('./div2.png')}  alt='' className='w-[15rem] h-full m-auto block ' />
 
                                     </div>
                                 </div>
@@ -248,7 +248,7 @@ export const Help = () => {
                                     </div>
                                     <div className='max-h-0 overflow-hidden transition-all duration-300 ease-in-out peer-checked:max-h-[15rem] aling-center justify-center peer-checked:mb-[1rem] acc' >
                                         <p className='text-[1.1rem] text-[#00FFCA] font-bold w-[30rem] text-center w-full mb-[1rem]'>{t('Help.Polim.p4')}</p>
-                                        <img src={help('./mul2.png')} className='w-[15rem] h-full m-auto block ' />
+                                        <img src={help('./mul2.png')}  alt='' className='w-[15rem] h-full m-auto block ' />
                                     </div>
                                 </div>
                             </div>
@@ -260,7 +260,7 @@ export const Help = () => {
                             <hr className='border-2 border-[#05BFDB] lg:w-[95%] linea' />
                             <div className='mb-[2rem]'>
                                 <div className='lg:flex w-full mt-[2rem] hola'>
-                                    <img src={imagenes('./Imagen9.png')} className=' lg:w-[40rem] md:w-[auto] rounded-[2rem]' />
+                                    <img src={imagenes('./Imagen9.png')} alt='' className=' lg:w-[40rem] md:w-[auto] rounded-[2rem]' />
                                     <div className='lg:ml-[5rem] mt-[1rem]'>
                                         <h1 className='text-[#05BFDB] text-[1.5rem] font-bold'>{t('Help.Fact.sub-tittle')}</h1>
                                         <p className='text-justify text-[#FFFFFF] lg:w-[30rem]'>{t('Help.Fact.text')} </p>
@@ -275,7 +275,7 @@ export const Help = () => {
                                         <ion-icon name="chevron-down-outline" class="text-[#00FFCA] "></ion-icon>
                                     </div>
                                     <div className='max-h-0 overflow-hidden transition-all duration-300 ease-in-out peer-checked:max-h-[12rem] flex aling-center justify-center peer-checked:mb-[1rem] acc' >
-                                        <img src={help('./caso1.png')} className='w-[12rem] h-full mr-[5rem]' />
+                                        <img src={help('./caso1.png')}  alt='' className='w-[12rem] h-full mr-[5rem]' />
                                         <p className=' text-[1.1rem] text-[#00FFCA] font-bold w-[30rem] text-justify'>{t('Help.Fact.p1')} </p>
                                     </div>
                                 </div>
@@ -288,7 +288,7 @@ export const Help = () => {
                                         <ion-icon name="chevron-down-outline" class="text-[#00FFCA] "></ion-icon>
                                     </div>
                                     <div className='max-h-0 overflow-hidden transition-all duration-300 ease-in-out peer-checked:max-h-[10rem] flex aling-center justify-center peer-checked:mb-[1rem] acc' >
-                                        <img src={help('./caso2.png')} className='w-[12rem] h-full mr-[5rem]' />
+                                        <img src={help('./caso2.png')}  alt='' className='w-[12rem] h-full mr-[5rem]' />
                                         <p className='text-[1.1rem] text-[#00FFCA] font-bold w-[30rem] text-justify'>{t('Help.Fact.p2')}</p>
                                     </div>
                                 </div>
@@ -301,7 +301,7 @@ export const Help = () => {
                                     </div>
                                     <label htmlFor='input15' className='font-bold tracking-[1px] mx-[1.25rem] h-[3.125rem] flex items-center  transition duration-300 ease-in-out cursor-pointer text-[#FFFFFF]' >{t('Help.Fact.t3')}</label>
                                     <div className='max-h-0 overflow-hidden transition-all duration-300 ease-in-out peer-checked:max-h-[10rem] flex aling-center justify-center peer-checked:mb-[1rem] acc ' >
-                                        <img src={help('./caso3.png')} className='w-[12rem] h-full mr-[5rem]' />
+                                        <img src={help('./caso3.png')}  alt='' className='w-[12rem] h-full mr-[5rem]' />
                                         <p className='text-[1.1rem] text-[#00FFCA] font-bold w-[30rem] text-justify'>{t('Help.Fact.p3')}</p>
                                     </div>
                                 </div>
@@ -314,7 +314,7 @@ export const Help = () => {
                                         <ion-icon name="chevron-down-outline" class="text-[#00FFCA] "></ion-icon>
                                     </div>
                                     <div className='max-h-0 overflow-hidden transition-all duration-300 ease-in-out peer-checked:max-h-[10rem] flex aling-center justify-center peer-checked:mb-[1rem] acc' >
-                                        <img src={help('./caso4.png')} className='w-[12rem] h-full mr-[5rem] mt-[1rem]' />
+                                        <img src={help('./caso4.png')}  alt='' className='w-[12rem] h-full mr-[5rem] mt-[1rem]' />
                                         <p className='text-[1.1rem] text-[#00FFCA] font-bold w-[30rem] text-justify'>{t('Help.Fact.p4')}</p>
                                     </div>
                                 </div>
@@ -327,7 +327,7 @@ export const Help = () => {
                                         <ion-icon name="chevron-down-outline" class="text-[#00FFCA] "></ion-icon>
                                     </div>
                                     <div className='max-h-0 overflow-hidden transition-all duration-300 ease-in-out peer-checked:max-h-[10rem] flex aling-center justify-center peer-checked:mb-[1rem] acc' >
-                                        <img src={help('./caso5.png')} className='w-[12rem] h-full mr-[5rem] mt-[1rem]' />
+                                        <img src={help('./caso5.png')}  alt='' className='w-[12rem] h-full mr-[5rem] mt-[1rem]' />
                                         <p className='text-[1.1rem] text-[#00FFCA] font-bold w-[30rem] text-justify'>{t('Help.Fact.p5')}</p>
                                     </div>
                                 </div>
@@ -340,7 +340,7 @@ export const Help = () => {
                                         <ion-icon name="chevron-down-outline" class="text-[#00FFCA] "></ion-icon>
                                     </div>
                                     <div className='max-h-0 overflow-hidden transition-all duration-300 ease-in-out peer-checked:max-h-[10rem] flex aling-center justify-center peer-checked:mb-[1rem] acc' >
-                                        <img src={help('./caso6.png')} className='w-[12rem] h-full mr-[5rem] mt-[1rem]' />
+                                        <img src={help('./caso6.png')}  alt='' className='w-[12rem] h-full mr-[5rem] mt-[1rem]' />
                                         <p className='text-[1.1rem] text-[#00FFCA] font-bold w-[30rem] text-justify'>{t('Help.Fact.p6')}</p>
                                     </div>
                                 </div>
@@ -353,7 +353,7 @@ export const Help = () => {
                                         <ion-icon name="chevron-down-outline" class="text-[#00FFCA] "></ion-icon>
                                     </div>
                                     <div className='max-h-0 overflow-hidden transition-all duration-300 ease-in-out peer-checked:max-h-[10rem] flex aling-center justify-center peer-checked:mb-[1rem] acc' >
-                                        <img src={help('./caso7.png')} className='w-[12rem] h-full mr-[5rem] ' />
+                                        <img src={help('./caso7.png')}  alt='' className='w-[12rem] h-full mr-[5rem] ' />
                                         <p className='text-[1.1rem] text-[#00FFCA] font-bold w-[30rem] text-justify'>{t('Help.Fact.p7')}</p>
                                     </div>
                                 </div>
@@ -366,7 +366,7 @@ export const Help = () => {
                                         <ion-icon name="chevron-down-outline" class="text-[#00FFCA] "></ion-icon>
                                     </div>
                                     <div className='max-h-0 overflow-hidden transition-all duration-300 ease-in-out peer-checked:max-h-[10rem] flex aling-center justify-center peer-checked:mb-[1rem] acc' >
-                                        <img src={help('./caso8.png')} className='w-[20rem] h-full mr-[5rem] ' />
+                                        <img src={help('./caso8.png')}  alt='' className='w-[20rem] h-full mr-[5rem] ' />
                                         <p className='text-[1.1rem] text-[#00FFCA] font-bold w-[30rem] text-justify'>{t('Help.Fact.p8')}</p>
                                     </div>
                                 </div>
@@ -379,7 +379,7 @@ export const Help = () => {
                                         <ion-icon name="chevron-down-outline" class="text-[#00FFCA] "></ion-icon>
                                     </div>
                                     <div className='max-h-0 overflow-hidden transition-all duration-300 ease-in-out peer-checked:max-h-[10rem] flex aling-center justify-center peer-checked:mb-[1rem] acc' >
-                                        <img src={help('./caso9.png')} className='w-[20rem] h-full mr-[5rem] ' />
+                                        <img src={help('./caso9.png')}  alt='' className='w-[20rem] h-full mr-[5rem] ' />
                                         <p className='text-[1.1rem] text-[#00FFCA] font-bold w-[30rem] text-justify'>{t('Help.Fact.p9')}</p>
                                     </div>
                                 </div>
@@ -392,7 +392,7 @@ export const Help = () => {
                                         <ion-icon name="chevron-down-outline" class="text-[#00FFCA] "></ion-icon>
                                     </div>
                                     <div className='max-h-0 overflow-hidden transition-all duration-300 ease-in-out peer-checked:max-h-[10rem] flex aling-center justify-center peer-checked:mb-[1rem] acc' >
-                                        <img src={help('./caso10.png')} className='w-[25rem] h-full mr-[5rem] ' />
+                                        <img src={help('./caso10.png')} alt='' className='w-[25rem] h-full mr-[5rem]' />
                                         <p className='text-[1.1rem] text-[#00FFCA] font-bold w-[30rem] text-justify'>{t('Help.Fact.p10')}</p>
                                     </div>
                                 </div>
