@@ -50,6 +50,12 @@
 
 
 /* ==Header==😂 */
+@media(min-width:1920px){
+    
+    .logo-header{
+        transform: translateX(95rem);
+    }
+} 
 @media(max-width:1366px){
     
     .logo-header{
